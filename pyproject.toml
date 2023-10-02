@@ -2,7 +2,7 @@
 name = "llm-api"
 version = "0.1.0"
 description = "A Pydantic wrapper around the OpenAI API."
-authors = ["github@thetortoise.io"]
+authors = ["Dan Nadler <github@thetortoise.io>"]
 readme = "README.md"
 packages = [{include = "llm_api"}]
 
