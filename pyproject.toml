@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "llm-api"
+name = "lamplight"
 version = "0.1.0"
 description = "A Pydantic wrapper around the OpenAI API."
 authors = ["Dan Nadler <github@thetortoise.io>"]
 readme = "README.md"
-packages = [{include = "llm_api"}]
+packages = [{include = "lamplight"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
